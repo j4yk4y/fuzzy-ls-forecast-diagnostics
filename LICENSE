@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 Remo Kälin, Edy Portmann, Christian Dollfus
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Data Notice
+-----------
+The data files in data/ contain derived outputs from the following sources,
+each subject to their own terms:
+
+- Electricity consumption: CKW open smart meter dataset (Dataset B).
+  Published by Centralschweizerische Kraftwerke AG under their open data terms.
+  https://www.ckw.ch/ueber-ckw/engagement/open-data.html
+
+- Temperature forecasts: ECMWF IFS model via Open-Meteo (CC BY 4.0).
+  https://open-meteo.com
+  Zippenfenig, P. (2023). Open-Meteo. DOI: 10.5281/zenodo.7970649
